@@ -1,0 +1,30 @@
+{
+  "name": "react-local-dev",
+  "version": "1.0.0",
+  "description": "private local dev environment for React stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickdloucks/front-end-libs.git"
+  },
+  "keywords": [
+    "react",
+    "local"
+  ],
+  "author": "Nick Loucks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickdloucks/front-end-libs/issues"
+  },
+  "homepage": "https://github.com/nickdloucks/front-end-libs#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.0"
+  }
+}
